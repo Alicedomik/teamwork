@@ -5,3 +5,4 @@ b = 18
 
 result = gcd(a, b)
 print(get_fibonacci(10))
+print(is_power_of_five(5))
